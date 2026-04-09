@@ -1,0 +1,23 @@
+# Virtual Environment
+vivaan/
+env/
+venv/
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Workspace settings
+.vscode/
+.idea/
+
+# Local data/models (if any are huge, otherwise keep)
+*.tflite
+actual_requirements.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db

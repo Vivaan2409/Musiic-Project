@@ -1,0 +1,7 @@
+Flask==3.0.3
+opencv-python-headless==4.10.0.84
+fer==25.10.3
+numpy==2.2.6
+mtcnn==1.0.1
+gunicorn==23.0.0
+tensorflow==2.20.0
